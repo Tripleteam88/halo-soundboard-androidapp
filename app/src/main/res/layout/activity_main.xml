@@ -29,18 +29,18 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button5"
+                android:id="@+id/btnWeap"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="I need a weapon" />
 
             <Button
-                android:id="@+id/button6"
+                android:id="@+id/btnFight"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Sir, Finishing this fight" />
+                android:text="Finish the fight" />
         </LinearLayout>
 
         <LinearLayout
@@ -49,14 +49,14 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button8"
+                android:id="@+id/btnCam"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="You told me there wouldnt be any cameras" />
+                android:text="Cameras" />
 
             <Button
-                android:id="@+id/button7"
+                android:id="@+id/btnBoo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -69,18 +69,18 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button10"
+                android:id="@+id/btnMiss"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="What if you miss" />
+                android:text="Miss" />
 
             <Button
-                android:id="@+id/button9"
+                android:id="@+id/btnGive"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Give the covenant back their bomb" />
+                android:text="Give the covenant" />
         </LinearLayout>
 
         <LinearLayout
@@ -89,14 +89,14 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button12"
+                android:id="@+id/btnWake"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Wake me" />
 
             <Button
-                android:id="@+id/button11"
+                android:id="@+id/btnRock"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -109,14 +109,14 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button14"
+                android:id="@+id/btnLadies"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Ik what the Ladies like" />
+                android:text="What the Ladies like" />
 
             <Button
-                android:id="@+id/button13"
+                android:id="@+id/btnTell"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
